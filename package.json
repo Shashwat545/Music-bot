@@ -1,0 +1,18 @@
+{
+  "name": "musx",
+  "version": "1.0.0",
+  "description": "Music bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Shashwat Singh",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.11.0"
+  }
+}
